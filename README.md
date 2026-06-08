@@ -1,1 +1,0 @@
-# Synchronization-Phase-Locking-and-Amplitude-Death-in-Coupled-Stuart-Landau-Oscillators
